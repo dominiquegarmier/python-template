@@ -1,2 +1,2 @@
-# python-template
-python-template
+# my project
+my project
